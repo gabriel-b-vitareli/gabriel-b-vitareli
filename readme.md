@@ -5,6 +5,13 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/gabriel-b-vitareli/gabriel-b-vitareli/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DenadaiSenai/DenadaiSenai/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DenadaiSenai/DenadaiSenai/blob/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+<hr>
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=gabriel-b-vitareli&repo=gabriel-b-vitareli&theme=react)](https://github.com/gabriel-b-vitareli/gabriel-b-vitareli)
