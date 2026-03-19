@@ -22,10 +22,3 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://github.com/gabriel-b-vitareli/gabriel-b-vitareli">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabriel-b-vitareli&repo=gabriel-b-vitareli&theme=react"/>
-  </a>
-</div>
