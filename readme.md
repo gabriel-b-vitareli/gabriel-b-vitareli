@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Gabriel</h1>
 
 <p align="center">
-  💻 Estudante de programação | 🚀 Em constante evolução
+  💻 Estudante de Desenvolvimento de Sistemas no SENAI
 </p>
 
 <div align="center">
