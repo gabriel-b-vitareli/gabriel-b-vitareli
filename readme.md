@@ -14,21 +14,13 @@
   </picture>
 </div>
 
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-b-vitareli&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
-</div>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-b-vitareli&theme=dark&locale=pt-br" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-b-vitareli&layout=compact&langs_count=8&card_width=320&theme=dark&locale=pt-br" />
 </a>
----
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-b-vitareli&show_icons=true&theme=dark&locale=pt-br"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-b-vitareli&theme=dark&hide_border=true&locale=pt_BR&mode=weekly"/>
 </div>
