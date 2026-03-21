@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel</h1>
+<h1 align="center">👋 Olá, eu sou o Gabriel Braga</h1>
 
 <p align="center">
-  💻 Estudante de programação | 🚀 Em constante evolução
+  💻 Estudante de Desenvolvimento de Sistemas no SENAI
 </p>
 
 ---
@@ -20,6 +20,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-b-vitareli&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
 </div>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=gabriel-b-vitareli" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-b-vitareli&layout=compact&langs_count=8&card_width=320" />
+</a>
 ---
 
 <div align="center">
