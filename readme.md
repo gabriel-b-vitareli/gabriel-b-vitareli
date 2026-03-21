@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/gabriel-b-vitareli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-b-vitareli&layout=compact&langs_count=7&theme=react"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-b-vitareli&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
   </a>
 </div>
 
