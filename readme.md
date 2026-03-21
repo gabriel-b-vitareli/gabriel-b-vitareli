@@ -22,5 +22,5 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-b-vitareli&theme=dark&hide_border=true&locale=pt_BR&mode=weekly"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-b-vitareli&theme=dark&locale=pt_BR&mode=weekly"/>
 </div>
