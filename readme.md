@@ -14,7 +14,7 @@
 
 <br>
 
-<table align="center">
+<table align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-b-vitareli&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
@@ -27,14 +27,14 @@
 
 <br>
 
-<table align="center">
+<table align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td>
       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-b-vitareli&theme=dark&locale=pt_BR&mode=weekly"/>
     </td>
     <td align="center">
       <p><b>🚀 Tecnologias</b></p>
-      <img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
+      <img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
     </td>
   </tr>
 </table>
