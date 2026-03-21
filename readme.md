@@ -17,10 +17,10 @@
 <table align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-b-vitareli&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-b-vitareli&layout=compact&langs_count=7&theme=dark&locale=pt-br&hide_border=true"/>
     </td>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-b-vitareli&show_icons=true&theme=dark&locale=pt-br"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-b-vitareli&show_icons=true&theme=dark&locale=pt-br&hide_border=true"/>
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@
 <table align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-b-vitareli&theme=dark&locale=pt_BR&mode=weekly"/>
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-b-vitareli&theme=dark&locale=pt_BR&mode=weekly&hide_border=true"/>
     </td>
     <td align="center">
       <p><b>🚀 Tecnologias</b></p>
