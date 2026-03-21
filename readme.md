@@ -22,4 +22,6 @@
   </a>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gabriel-b-vitareli)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gabriel-b-vitareli&theme=dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+</div>
