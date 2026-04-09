@@ -23,23 +23,6 @@
 
 <br>
 
-<table align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <img 
-        height="180em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-b-vitareli&layout=compact&langs_count=7&theme=dark&locale=pt-br&hide_border=true"
-      />
-    </td>
-    <td>
-      <img 
-        height="180em" 
-        src="https://github-readme-stats.vercel.app/api?username=gabriel-b-vitareli&show_icons=true&theme=dark&locale=pt-br&hide_border=true"
-      />
-    </td>
-  </tr>
-</table>
-
 <br>
 
 <table align="center" cellpadding="0" cellspacing="0">
