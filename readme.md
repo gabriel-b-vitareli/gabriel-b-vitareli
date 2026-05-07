@@ -5,7 +5,7 @@
 <p>
   <img src="https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-0078D4?style=for-the-badge&logo=academia&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Campinas-SP%2C%20Brasil-29B473?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Americana-SP%2C%20Brasil-29B473?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
