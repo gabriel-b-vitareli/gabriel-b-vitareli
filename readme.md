@@ -73,7 +73,7 @@
 ### Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,html,md,vscode,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,md,vscode,git,github&theme=dark" />
 </p>
 
 ---
