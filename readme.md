@@ -27,11 +27,6 @@
     pct = round(current / total * 100)
   Só mexa nos números, não na estrutura HTML.
   =============================================
-
-  Curso 1 — SENAI: 5 / 24 meses → 21%
-  Curso 2 — CS50: 2 / 14 semanas → 14%
-  Curso 3 — Git e Github: 11 / 15 aulas → 73%
-  Curso 4 — Python: 114 / 183 aulas → 62%
 -->
 
 <table width="100%" style="border-collapse:collapse;">
@@ -56,9 +51,9 @@
 <tr>
 <td style="padding: 6px 0;">
 
-**Git e Github — Curso em Vídeo** &nbsp;&nbsp; `12 / 14 aulas` &nbsp; **86%**
+**Git e Github — Curso em Vídeo** &nbsp;&nbsp; `13 / 14 aulas` &nbsp; **93%**
 
-![86%](https://progress-bar.xyz/86/?scale=100&width=700&color=f0883e&suffix=%25)
+![93%](https://progress-bar.xyz/93/?scale=100&width=700&color=f0883e&suffix=%25)
 
 </td>
 </tr>
