@@ -51,9 +51,9 @@
 <tr>
 <td style="padding: 6px 0;">
 
-**Git e Github — Curso em Vídeo** &nbsp;&nbsp; `13 / 14 aulas` &nbsp; **93%**
+**Git e Github — Curso em Vídeo** &nbsp;&nbsp; `14 / 14 aulas` &nbsp; **100%**
 
-![93%](https://progress-bar.xyz/93/?scale=100&width=700&color=f0883e&suffix=%25)
+![93%](https://progress-bar.xyz/100/?scale=100&width=700&color=f0883e&suffix=%25)
 
 </td>
 </tr>
