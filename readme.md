@@ -56,9 +56,9 @@
 <tr>
 <td style="padding: 6px 0;">
 
-**Git e Github — Curso em Vídeo** &nbsp;&nbsp; `11 / 15 aulas` &nbsp; **73%**
+**Git e Github — Curso em Vídeo** &nbsp;&nbsp; `12 / 14 aulas` &nbsp; **86%**
 
-![73%](https://progress-bar.xyz/73/?scale=100&width=700&color=f0883e&suffix=%25)
+![86%](https://progress-bar.xyz/86/?scale=100&width=700&color=f0883e&suffix=%25)
 
 </td>
 </tr>
