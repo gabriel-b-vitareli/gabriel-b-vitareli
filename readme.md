@@ -33,9 +33,9 @@
 <tr>
 <td width="100%" style="padding: 6px 0;">
 
-**Desenvolvimento de Sistemas — SENAI** &nbsp;&nbsp; `5 / 24 meses` &nbsp; **21%**
+**Desenvolvimento de Sistemas — SENAI** &nbsp;&nbsp; `6 / 24 meses` &nbsp; **25%**
 
-![21%](https://progress-bar.xyz/21/?scale=100&width=700&color=1f6feb&suffix=%25)
+![25%](https://progress-bar.xyz/25/?scale=100&width=700&color=1f6feb&suffix=%25)
 
 </td>
 </tr>
