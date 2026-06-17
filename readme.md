@@ -16,7 +16,6 @@
 </picture>
 
 ---
-
 ### Progresso de Cursos
 
 <table width="100%" style="border-collapse:collapse;">
@@ -80,7 +79,6 @@
 </td>
 </tr>
 </table>
----
 
 ### Tecnologias
 
