@@ -51,6 +51,15 @@
 <tr>
 <td style="padding: 6px 0;">
 
+**Redes de Computadores — Curso em Vídeo** &nbsp;&nbsp; `1 / 25 aulas` &nbsp; *4%**
+
+![4%](https://progress-bar.xyz/4/?scale=100&width=700&color=238636&suffix=%25)
+
+</td>
+</tr>
+<tr>
+<td style="padding: 6px 0;">
+
 **Git e Github — Curso em Vídeo** &nbsp;&nbsp; `14 / 14 aulas` &nbsp; **100%**
 
 ![93%](https://progress-bar.xyz/100/?scale=100&width=700&color=f0883e&suffix=%25)
