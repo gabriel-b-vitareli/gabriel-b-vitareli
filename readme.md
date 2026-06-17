@@ -60,6 +60,15 @@
 <tr>
 <td style="padding: 6px 0;">
 
+**Hardware — Curso em Vídeo** &nbsp;&nbsp; `1 / 32 aulas` &nbsp; **3%**
+
+![3%](https://progress-bar.xyz/3/?scale=100&width=700&color=238636&suffix=%25)
+
+</td>
+</tr>
+<tr>
+<td style="padding: 6px 0;">
+
 **Python — Curso em Vídeo** &nbsp;&nbsp; `114 / 183 aulas` &nbsp; **62%**
 
 ![62%](https://progress-bar.xyz/62/?scale=100&width=700&color=3572A5&suffix=%25)
