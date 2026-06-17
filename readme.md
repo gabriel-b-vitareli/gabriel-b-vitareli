@@ -16,69 +16,32 @@
 </picture>
 
 ---
+
 ### Progresso de Cursos
 
-<table width="100%" style="border-collapse:collapse;">
-<tr>
-<td width="100%" style="padding: 6px 0;">
+**Desenvolvimento de Sistemas — SENAI** `6 / 24 meses` **25%**
 
-**Desenvolvimento de Sistemas — SENAI** &nbsp;&nbsp; `6 / 24 meses` &nbsp; **25%**
+![25%](https://progress-bar.xyz/25/?scale=100&width=700&color=0F4C81&suffix=%25)
 
-![25%](https://progress-bar.xyz/25/?scale=100&width=700&color=4C6A92&suffix=%25)
+**CS50 — Harvard University** `2 / 14 semanas` **14%**
 
-</td>
-</tr>
+![14%](https://progress-bar.xyz/14/?scale=100&width=700&color=7A1F3D&suffix=%25)
 
-<tr>
-<td style="padding: 6px 0;">
+**Redes de Computadores — Curso em Vídeo** `1 / 25 aulas` **4%**
 
-**CS50 — Harvard University** &nbsp;&nbsp; `2 / 14 semanas` &nbsp; **14%**
+![4%](https://progress-bar.xyz/4/?scale=100&width=700&color=4F6F52&suffix=%25)
 
-![14%](https://progress-bar.xyz/14/?scale=100&width=700&color=8B4B4B&suffix=%25)
+**Git e Github — Curso em Vídeo** `14 / 14 aulas` **100%**
 
-</td>
-</tr>
+![100%](https://progress-bar.xyz/100/?scale=100&width=700&color=B7791F&suffix=%25)
 
-<tr>
-<td style="padding: 6px 0;">
+**Hardware — Curso em Vídeo** `1 / 32 aulas` **3%**
 
-**Redes de Computadores — Curso em Vídeo** &nbsp;&nbsp; `1 / 25 aulas` &nbsp; **4%**
+![3%](https://progress-bar.xyz/3/?scale=100&width=700&color=4A5568&suffix=%25)
 
-![4%](https://progress-bar.xyz/4/?scale=100&width=700&color=5D7A5D&suffix=%25)
+**Python — Curso em Vídeo** `114 / 183 aulas` **62%**
 
-</td>
-</tr>
-
-<tr>
-<td style="padding: 6px 0;">
-
-**Git e Github — Curso em Vídeo** &nbsp;&nbsp; `14 / 14 aulas` &nbsp; **100%**
-
-![100%](https://progress-bar.xyz/100/?scale=100&width=700&color=A86A3A&suffix=%25)
-
-</td>
-</tr>
-
-<tr>
-<td style="padding: 6px 0;">
-
-**Hardware — Curso em Vídeo** &nbsp;&nbsp; `1 / 32 aulas` &nbsp; **3%**
-
-![3%](https://progress-bar.xyz/3/?scale=100&width=700&color=5C6370&suffix=%25)
-
-</td>
-</tr>
-
-<tr>
-<td style="padding: 6px 0;">
-
-**Python — Curso em Vídeo** &nbsp;&nbsp; `114 / 183 aulas` &nbsp; **62%**
-
-![62%](https://progress-bar.xyz/62/?scale=100&width=700&color=9B8A4A&suffix=%25)
-
-</td>
-</tr>
-</table>
+![62%](https://progress-bar.xyz/62/?scale=100&width=700&color=6B46C1&suffix=%25)
 
 ### Tecnologias
 
