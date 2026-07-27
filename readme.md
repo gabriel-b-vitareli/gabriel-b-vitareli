@@ -17,32 +17,6 @@
 
 ---
 
-### Progresso de Cursos
-
-**Desenvolvimento de Sistemas — SENAI** `6 / 24 meses` **25%**
-
-![25%](https://progress-bar.xyz/25/?scale=100&width=700&color=0F4C81&suffix=%25)
-
-**CS50 — Harvard University** `2 / 14 semanas` **14%**
-
-![14%](https://progress-bar.xyz/14/?scale=100&width=700&color=7A1F3D&suffix=%25)
-
-**Redes de Computadores — Curso em Vídeo** `1 / 25 aulas` **4%**
-
-![4%](https://progress-bar.xyz/4/?scale=100&width=700&color=4F6F52&suffix=%25)
-
-**Git e Github — Curso em Vídeo** `14 / 14 aulas` **100%**
-
-![100%](https://progress-bar.xyz/100/?scale=100&width=700&color=B7791F&suffix=%25)
-
-**Hardware — Curso em Vídeo** `1 / 32 aulas` **3%**
-
-![3%](https://progress-bar.xyz/3/?scale=100&width=700&color=4A5568&suffix=%25)
-
-**Python — Curso em Vídeo** `114 / 183 aulas` **62%**
-
-![62%](https://progress-bar.xyz/62/?scale=100&width=700&color=6B46C1&suffix=%25)
-
 ### Tecnologias
 
 <p>
