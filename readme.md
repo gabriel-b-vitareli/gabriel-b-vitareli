@@ -1,4 +1,4 @@
-<h1>Gabriel B. Vitareli</h1>
+<h1>Gabriel Braga Vitareli</h1>
 <p>Estudante de Desenvolvimento de Sistemas &mdash; SENAI Americana, SP</p>
 
 <p>
@@ -16,12 +16,17 @@
 </picture>
 
 ---
+### Stack
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Mermaid](https://img.shields.io/badge/Mermaid-000000?style=for-the-badge&logo=mermaid&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white)
 
-### Tecnologias
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,md,vscode,git,github,arduino&theme=dark" />
-</p>
+</div>
 
 ---
 
