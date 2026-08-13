@@ -1,12 +1,6 @@
 <h1>Gabriel Braga Vitareli</h1>
 <p>Estudante de Desenvolvimento de Sistemas &mdash; SENAI Americana, SP</p>
 
-<p>
-  <img src="https://img.shields.io/badge/Aberto%20a%20Colaborações-238636?style=flat-square&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Python%20·%20Git%20·%20VS%20Code-1f6feb?style=flat-square&logoColor=white" />
-</p>
-
 ---
 
 <picture>
@@ -25,6 +19,8 @@
 ![Mermaid](https://img.shields.io/badge/Mermaid-000000?style=for-the-badge&logo=mermaid&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
