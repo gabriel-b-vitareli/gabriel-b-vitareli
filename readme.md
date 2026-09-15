@@ -104,7 +104,7 @@
 
 ### LINGUAGENS
 
-<img src="https://skillicons.dev/icons?i=python,lua,html,php,c,md" />
+<img src="https://skillicons.dev/icons?i=python,lua,html,css,php,c,md" />
 
 <br>
 
