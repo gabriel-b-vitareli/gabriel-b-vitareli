@@ -276,23 +276,20 @@ Nem todo projeto precisa ser grande e útil. Um único arquivo feito na prática
   />
 </picture>
 
-
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/pacman-contribution-graph-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/pacman-contribution-graph.svg"
-  />
 
   <img
     alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/pacman-contribution-graph.svg"
+    src="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/pacman-contribution-graph-dark.svg"
+    width="100%"
   />
 </picture>
+
+<img
+  src="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/galaga-contribution-graph.svg"
+  alt="Galaga contribution graph"
+  width="100%"
+/>
 
 
 <br>
