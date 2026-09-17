@@ -264,6 +264,24 @@ Nem todo projeto precisa ser grande e útil. Um único arquivo feito na prática
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/pacman-contribution-graph-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/pacman-contribution-graph.svg"
+  />
+
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D1117" width="100%"/>
