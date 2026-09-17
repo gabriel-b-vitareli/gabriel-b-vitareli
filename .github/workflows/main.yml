@@ -3,7 +3,9 @@ name: generate pacman contribution graph
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -21,7 +23,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman"
+          games: "pacman,galaga"
           hide_month_labels: "false"
 
       - name: push SVGs to the output branch
