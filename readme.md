@@ -258,20 +258,16 @@ Nem todo projeto precisa ser grande e útil. Um único arquivo feito na prática
 
 <div align="center">
 
-<!-- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/github-contribution-grid-snake-dark.svg"
-  />
+<picture>
 
   <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/github-contribution-grid-snake-dark.svg"
     width="100%"
-  />
-</picture> -->
+  /> 
+</picture>
 
-<picture>
+<!-- <picture>
 
   <img
     alt="Pac-Man contribution graph"
@@ -284,7 +280,7 @@ Nem todo projeto precisa ser grande e útil. Um único arquivo feito na prática
   src="https://raw.githubusercontent.com/gabriel-b-vitareli/gabriel-b-vitareli/output/galaga-contribution-graph.svg"
   alt="Galaga contribution graph"
   width="100%"
-/>
+/> -->
 
 
 <br>
