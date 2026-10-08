@@ -15,6 +15,11 @@
 <a href="https://www.instagram.com/_gabrielvitareli/">
   <img src="https://img.shields.io/badge/instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF"/>
 </a>
+
+<!-- TROQUE o link abaixo pela URL real da página de certificados quando ela estiver pronta -->
+<a href="https://gabriel-b-vitareli.github.io/certificados">
+  <img src="https://img.shields.io/badge/CERTIFICADOS-0D1117?style=for-the-badge&logo=googlescholar&logoColor=FFFFFF"/>
+</a>
 <!-- <a href="#">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF"/>
 </a> -->
@@ -63,7 +68,7 @@
 ▸ C
 ▸ HTML
 ▸ Sistemas Web
-````
+```
 
 </td>
 
@@ -190,7 +195,24 @@ Conforme aprendo novas linguagens de programação, pretendo criar projetos para
 
 ---
 
-## `04` — ATIVIDADE NO GITHUB
+## `04` — CERTIFICADOS
+
+<div align="center">
+
+Cursos e certificações que conquistei ao longo da minha jornada.
+
+<br>
+
+<!-- TROQUE o link abaixo pela URL real da página de certificados quando ela estiver pronta -->
+<a href="https://gabriel-b-vitareli.github.io/certificados">
+<img src="https://img.shields.io/badge/VER_CERTIFICADOS-161B22?style=for-the-badge&logo=googlescholar&logoColor=58A6FF"/>
+</a>
+
+</div>
+
+---
+
+## `05` — ATIVIDADE NO GITHUB
 
 <div align="center">
 
@@ -214,7 +236,7 @@ Conforme aprendo novas linguagens de programação, pretendo criar projetos para
 
 ---
 
-## `05` — FILOSOFIA
+## `06` — FILOSOFIA
 
 <div align="center">
 
@@ -236,7 +258,7 @@ Nem todo projeto precisa ser grande e útil. Um único arquivo feito na prática
 
 ---
 
-## `06` — CONECTAR
+## `07` — CONECTAR
 
 <div align="center">
 
