@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0D1117&text=GABRIEL%20BRAGA%20VITARELI&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Desenvolvedor%20%7C%20Estudante&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=3e3f40&section=header&reversal=false&text=GABRIEL+BRAGA+VITARELI&textBg=false&fontColor=FFFF&fontSize=60&fontAlign=50&fontAlignY=42&animation=fadeIn&rotate=0&strokeWidth=0&desc=Desenvolvedor+%7C+Estudante&descSize=20&descAlign=50&descAlignY=60" width="100%"/>
 
 <br>
 
