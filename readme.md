@@ -66,7 +66,9 @@
 ▸ Desenvolvimento de Software
 ▸ PHP
 ▸ C
+▸ C#
 ▸ HTML
+▸ CSS
 ▸ Sistemas Web
 ```
 
@@ -80,7 +82,7 @@
 ▸ Experimentos pessoais
 ▸ Pequenos projetos acadêmicos
 ▸ Ferramentas e sistemas simples
-▸ Jogos básicos
+▸ Software Empresarial
 ```
 
 </td>
@@ -91,6 +93,7 @@
 
 ```text
 ▸ Programação Multiparadigma
+▸ Banco de Dados
 ▸ Design Gráfico
 ▸ Automação
 ▸ Inteligência Artificial
@@ -108,7 +111,7 @@
 
 ### LINGUAGENS
 
-<img src="https://skillicons.dev/icons?i=python,lua,html,css,php,c,md,cs" />
+<img src="https://skillicons.dev/icons?i=python,lua,html,css,php,c,cs,md" />
 
 <br>
 
