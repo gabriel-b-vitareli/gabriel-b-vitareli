@@ -90,7 +90,6 @@
 ### EXPLORANDO
 
 ```text
-▸ Desenvolvimento de Jogos
 ▸ Programação Multiparadigma
 ▸ Design Gráfico
 ▸ Automação
@@ -109,13 +108,13 @@
 
 ### LINGUAGENS
 
-<img src="https://skillicons.dev/icons?i=python,lua,html,css,php,c,md" />
+<img src="https://skillicons.dev/icons?i=python,lua,html,css,php,c,md,cs" />
 
 <br>
 
 ### FERRAMENTAS E TECNOLOGIAS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,robloxstudio,postgresql" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,robloxstudio,postgresql,mongodb" />
 
 </div>
 
